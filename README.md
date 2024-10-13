@@ -8,6 +8,6 @@ This page contains the list of states in the U.S, population, and other details.
 The data is shown in multiple tables.
 
 <br>
-As shown in ipynb file, the two colums of the first table are fetched which are state-name and population of that respective state.
+As shown in ipynb file, the two columns of the first table are fetched which are state-name and population of that respective state.
 <br> 
 Finally, the pandas dataframe is converted into csv file named 'state_population.csv'.
